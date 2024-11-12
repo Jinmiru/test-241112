@@ -3,5 +3,6 @@
 
 ## 코드 작성
 ```python
-print('Hello, World!')
+print("Hello, World!")
+print("Bye Bye!")
 ```
